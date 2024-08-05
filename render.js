@@ -6,7 +6,7 @@
  * @Description: 
  * @FilePath: /QX/rewrite_remote/xbs_render/render.js
  */
-const url = "https://raw.githubusercontent.com/zyzdai/qx/main/render.html";
+const url = "https://proxy.xscodes.icu/?url=https://raw.githubusercontent.com/zyzdai/qx/main/render.html";
 const myRequest = {
     url: url
 };
